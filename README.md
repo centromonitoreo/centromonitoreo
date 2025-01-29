@@ -1,4 +1,4 @@
-# 🌍 Centro de Monitoreo de la Autoridad Nacional de Licencias Ambientales (ANLA)
+# Centro de Monitoreo de la Autoridad Nacional de Licencias Ambientales (ANLA)
 
 El **Centro de Monitoreo de la ANLA** es una iniciativa estratégica que combina ciencia de datos, inteligencia artificial y tecnologías de visualización geoespacial para fortalecer la gestión ambiental en Colombia. Su propósito es mejorar la capacidad de monitoreo, análisis y toma de decisiones sobre el impacto ambiental de proyectos estratégicos en el país.
 
@@ -9,7 +9,7 @@ El **Centro de Monitoreo de la ANLA** es una iniciativa estratégica que combina
 - **Automatización de procesos** mediante algoritmos de análisis de datos.
 - **Integración de tecnologías emergentes**, incluyendo sensores remotos, modelación ambiental y sistemas de información geoespacial.
 
-## 🚀 Proyectos Clave
+## Proyectos Clave
 
 ### Regionalización de Información
 Plataforma que permite la recopilación y análisis de datos ambientales a nivel regional, facilitando el monitoreo de impactos y la gestión territorial.
@@ -17,7 +17,7 @@ Plataforma que permite la recopilación y análisis de datos ambientales a nivel
 ### Automatización de Fichas de Aproximación
 Desarrollo de un sistema automatizado para la generación de fichas que resumen los posibles impactos ambientales de proyectos.
 
-### 💧 Aplicativo de Análisis Hidrogeológico
+### Aplicativo de Análisis Hidrogeológico
 Herramienta en **Python** para el análisis de calidad del agua subterránea, generando visualizaciones especializadas como diagramas de Piper, Stiff, Mifflin y Gibbs.
 
 ### Validación de Taxonomía con Inteligencia Artificial
